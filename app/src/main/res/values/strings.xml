@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LMC</string>
+    <string name="hint">####</string>
+    <string name="set_format">SET FORMAT</string>
+    <string name="PD">PD</string>
+    <string name="PX1">PX1</string>
+    <string name="PX2">PX2</string>
+    <string name="PX3">PX3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity1">Activity1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_operator">ActivityOperator</string>
+    <string name="title_activity_change_user">ChangeUserActivity</string>
+    <string name="connection_established">Соединение с контроллером установлено</string>
+    <string name="connection_NOT_established">Соединение с контроллером НЕ установлено</string>
+    <string name="impossible_set_format">Невозможно установить формат! Нет соединения с контроллером!</string>
+    <string name="only_numbers_0_9">Только цифры от 0 до 9</string>
+    
+    <string-array name="read_adress_array">
+        <item>D101</item>
+        <item>D102</item>
+        <item>D103</item>
+        <item>D104</item>
+        <item>D105</item>
+        <item>D106</item>
+        <item>D107</item>
+        <item>D108</item>
+        <item>D109</item>
+        <item>D110</item>
+        <item>D111</item>
+        <item>D112</item>
+        <item>D113</item>
+        <item>D114</item>
+        <item>D115</item>
+        <item>D116</item>
+        <item>D117</item>
+        <item>D118</item>
+        <item>D119</item>
+    </string-array>
+
+</resources>
